@@ -15,11 +15,11 @@
 
 ## Detail Fitur
 
-### Dashboard SmartPB
+### - Dashboard SmartPB
 Halaman dashboard pemantauan bencana yang memberikan informasi terkini mengenai situasi bencana di Jawa Timur, dikelola oleh BPBD JATIM.
 - ![image](https://github.com/user-attachments/assets/2dee3d06-ceef-41ef-8282-bff5f60f4aac)
 
-### Cuaca
+### - Cuaca
 Halaman pemantauan cuaca yang menyediakan data terkini dari BMKG Stasiun Meteorologi Juanda, membantu pengguna untuk tetap waspada terhadap perubahan cuaca yang dapat memicu bencana.
 - ![image](https://github.com/user-attachments/assets/a6720ea3-7b07-4279-af21-5d7aa9593bd0)
 
