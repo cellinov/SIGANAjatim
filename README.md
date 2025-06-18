@@ -1,4 +1,5 @@
 # SIAGANA JATIM
+Sistem Informasi Gawat dan Analisis Bencana Jawa Timur
 
 **SIAGANA JATIM** adalah aplikasi inovatif yang dirancang untuk memantau kejadian bencana di Jawa Timur. Aplikasi ini bertujuan untuk memberikan informasi yang akurat dan terkini kepada masyarakat, serta mendukung upaya mitigasi bencana oleh Badan Penanggulangan Bencana Daerah (BPBD) Jawa Timur. Dengan antarmuka yang user-friendly, SIAGANA JATIM menyediakan berbagai fitur penting yang dapat diakses dengan mudah.
 
